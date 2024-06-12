@@ -10,33 +10,33 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"unknown"</language>
-    <pubDate>Wed, 12 Jun 2024 11:59:00 PDT</pubDate>
+    <pubDate>Wed, 12 Jun 2024 12:09:00 PDT</pubDate>
 
-    <lastBuildDate>Wed, 12 Jun 2024 11:59:00 PDT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 12:09:00 PDT</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 4.7.0</generator>
     <ttl>1.0 minute</ttl>
 
     <item>
-      <title>Weather Conditions at 06/12/2024 11:59:00 AM</title>
+      <title>Weather Conditions at 06/12/2024 12:09:00 PM</title>
       <link></link>
       <description>
-        Outside Temperature: 74.3&#176;F;
-        Inside Temperature: 77.5&#176;F;
-        Barometer: 29.885 inHg;
+        Outside Temperature: 73.5&#176;F;
+        Inside Temperature: 77.4&#176;F;
+        Barometer: 29.883 inHg;
         Wind: 0 mph from    N/A;
         Rain: 0.00 in;
         Rain Rate: 0.00 in/h;
       </description>
-      <pubDate>Wed, 12 Jun 2024 11:59:00 PDT</pubDate>
+      <pubDate>Wed, 12 Jun 2024 12:09:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
       <p>
-      dateTime: 06/12/2024 11:59:00 AM<br/>
-        Outside Temperature: 74.3&#176;F<br/>
-        Inside Temperature: 77.5&#176;F<br/>
-        Barometer: 29.885 inHg<br/>
+      dateTime: 06/12/2024 12:09:00 PM<br/>
+        Outside Temperature: 73.5&#176;F<br/>
+        Inside Temperature: 77.4&#176;F<br/>
+        Barometer: 29.883 inHg<br/>
         Wind: 0 mph from    N/A;
         Rain: 0.00 in<br/>
         Rain Rate: 0.00 in/h<br/>
@@ -45,11 +45,11 @@
     </item>
 
     <item>
-      <title>Daily summary as of 06/12/2024 11:59:00 AM</title>
+      <title>Daily summary as of 06/12/2024 12:09:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 60.0&#176;F at 06:50:20 AM;
-        Max Outside Temperature: 74.3&#176;F at 11:56:51 AM;
+        Max Outside Temperature: 74.4&#176;F at 11:59:23 AM;
         Min Inside Temperature: 76.9&#176;F at 09:07:01 AM;
         Max Inside Temperature: 81.4&#176;F at 12:06:13 AM;
         Min Barometer: 29.804 inHg at 02:57:58 AM;
@@ -58,14 +58,14 @@
         Rain: 0.00 in;
         Max Rain Rate: 655.35 in/h;
       </description>
-      <pubDate>Wed, 12 Jun 2024 11:59:00 PDT</pubDate>
+      <pubDate>Wed, 12 Jun 2024 12:09:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
       <p>
       Daily summary as of 12 Jun 2024<br/>
         Min Outside Temperature: 60.0&#176;F at 06:50:20 AM<br/>
-        Max Outside Temperature: 74.3&#176;F at 11:56:51 AM<br/>
+        Max Outside Temperature: 74.4&#176;F at 11:59:23 AM<br/>
         Min Inside Temperature: 76.9&#176;F at 09:07:01 AM<br/>
         Max Inside Temperature: 81.4&#176;F at 12:06:13 AM<br/>
         Min Barometer: 29.804 inHg at 02:57:58 AM<br/>
@@ -77,7 +77,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 06/12/2024 11:59:00 AM</title>
+      <title>Monthly summary as of 06/12/2024 12:09:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 47.1&#176;F at 06/01/2024 05:38:45 AM;
@@ -90,7 +90,7 @@
         Rain: 0.00 in;
         Max Rain Rate: 655.35 in/h;
       </description>
-      <pubDate>Wed, 12 Jun 2024 11:59:00 PDT</pubDate>
+      <pubDate>Wed, 12 Jun 2024 12:09:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
@@ -109,7 +109,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 06/12/2024 11:59:00 AM</title>
+      <title>Yearly summary as of 06/12/2024 12:09:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 27.1&#176;F at 01/12/2024 07:07:16 AM;
@@ -122,7 +122,7 @@
         Rain: 13.30 in;
         Max Rain Rate: 655.35 in/h;
       </description>
-      <pubDate>Wed, 12 Jun 2024 11:59:00 PDT</pubDate>
+      <pubDate>Wed, 12 Jun 2024 12:09:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
