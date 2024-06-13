@@ -10,33 +10,33 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"unknown"</language>
-    <pubDate>Thu, 13 Jun 2024 14:59:00 PDT</pubDate>
+    <pubDate>Thu, 13 Jun 2024 15:09:00 PDT</pubDate>
 
-    <lastBuildDate>Thu, 13 Jun 2024 14:59:00 PDT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 15:09:00 PDT</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 4.8.0</generator>
     <ttl>1.0 minute</ttl>
 
     <item>
-      <title>Weather Conditions at 06/13/2024 02:59:00 PM</title>
+      <title>Weather Conditions at 06/13/2024 03:09:00 PM</title>
       <link></link>
       <description>
-        Outside Temperature: 67.8&#176;F;
+        Outside Temperature: 67.0&#176;F;
         Inside Temperature: 77.5&#176;F;
-        Barometer: 29.934 inHg;
+        Barometer: 29.931 inHg;
         Wind: 19 mph from 202&#176;;
         Rain: 0.00 in;
         Rain Rate: 0.00 in/h;
       </description>
-      <pubDate>Thu, 13 Jun 2024 14:59:00 PDT</pubDate>
+      <pubDate>Thu, 13 Jun 2024 15:09:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
       <p>
-      dateTime: 06/13/2024 02:59:00 PM<br/>
-        Outside Temperature: 67.8&#176;F<br/>
+      dateTime: 06/13/2024 03:09:00 PM<br/>
+        Outside Temperature: 67.0&#176;F<br/>
         Inside Temperature: 77.5&#176;F<br/>
-        Barometer: 29.934 inHg<br/>
+        Barometer: 29.931 inHg<br/>
         Wind: 19 mph from 202&#176;;
         Rain: 0.00 in<br/>
         Rain Rate: 0.00 in/h<br/>
@@ -45,7 +45,7 @@
     </item>
 
     <item>
-      <title>Daily summary as of 06/13/2024 02:59:00 PM</title>
+      <title>Daily summary as of 06/13/2024 03:09:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 54.5&#176;F at 02:18:41 AM;
@@ -54,11 +54,11 @@
         Max Inside Temperature: 78.5&#176;F at 12:00:03 AM;
         Min Barometer: 29.890 inHg at 03:15:59 AM;
         Max Barometer: 29.949 inHg at 12:43:00 PM;
-        Max Wind: 30 mph from 202&#176; at 02:21:00 PM;
+        Max Wind: 31 mph from 180&#176; at 03:08:00 PM;
         Rain: 0.00 in;
         Max Rain Rate: 0.00 in/h;
       </description>
-      <pubDate>Thu, 13 Jun 2024 14:59:00 PDT</pubDate>
+      <pubDate>Thu, 13 Jun 2024 15:09:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
@@ -70,14 +70,14 @@
         Max Inside Temperature: 78.5&#176;F at 12:00:03 AM<br/>
         Min Barometer: 29.890 inHg at 03:15:59 AM<br/>
         Max Barometer: 29.949 inHg at 12:43:00 PM<br/>
-        Max Wind: 30 mph from 202&#176; at 02:21:00 PM<br/>
+        Max Wind: 31 mph from 180&#176; at 03:08:00 PM<br/>
         Rain: 0.00 in<br/>
         Max Rain Rate: 0.00 in/h<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 06/13/2024 02:59:00 PM</title>
+      <title>Monthly summary as of 06/13/2024 03:09:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 47.1&#176;F at 06/01/2024 05:38:45 AM;
@@ -90,7 +90,7 @@
         Rain: 0.00 in;
         Max Rain Rate: 655.35 in/h;
       </description>
-      <pubDate>Thu, 13 Jun 2024 14:59:00 PDT</pubDate>
+      <pubDate>Thu, 13 Jun 2024 15:09:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
@@ -109,7 +109,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 06/13/2024 02:59:00 PM</title>
+      <title>Yearly summary as of 06/13/2024 03:09:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 27.1&#176;F at 01/12/2024 07:07:16 AM;
@@ -122,7 +122,7 @@
         Rain: 13.30 in;
         Max Rain Rate: 655.35 in/h;
       </description>
-      <pubDate>Thu, 13 Jun 2024 14:59:00 PDT</pubDate>
+      <pubDate>Thu, 13 Jun 2024 15:09:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
