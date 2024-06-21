@@ -10,34 +10,34 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"unknown"</language>
-    <pubDate>Fri, 21 Jun 2024 16:29:00 PDT</pubDate>
+    <pubDate>Fri, 21 Jun 2024 16:39:00 PDT</pubDate>
 
-    <lastBuildDate>Fri, 21 Jun 2024 16:29:00 PDT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 16:39:00 PDT</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 4.8.0</generator>
     <ttl>1.0 minute</ttl>
 
     <item>
-      <title>Weather Conditions at 06/21/2024 04:29:00 PM</title>
+      <title>Weather Conditions at 06/21/2024 04:39:00 PM</title>
       <link></link>
       <description>
-        Outside Temperature: 96.9&#176;F;
-        Inside Temperature: 78.4&#176;F;
-        Barometer: 29.684 inHg;
-        Wind: 3 mph from 315&#176;;
+        Outside Temperature: 96.6&#176;F;
+        Inside Temperature: 78.5&#176;F;
+        Barometer: 29.677 inHg;
+        Wind: 5 mph from 225&#176;;
         Rain: 0.00 in;
         Rain Rate: 0.00 in/h;
       </description>
-      <pubDate>Fri, 21 Jun 2024 16:29:00 PDT</pubDate>
+      <pubDate>Fri, 21 Jun 2024 16:39:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
       <p>
-      dateTime: 06/21/2024 04:29:00 PM<br/>
-        Outside Temperature: 96.9&#176;F<br/>
-        Inside Temperature: 78.4&#176;F<br/>
-        Barometer: 29.684 inHg<br/>
-        Wind: 3 mph from 315&#176;;
+      dateTime: 06/21/2024 04:39:00 PM<br/>
+        Outside Temperature: 96.6&#176;F<br/>
+        Inside Temperature: 78.5&#176;F<br/>
+        Barometer: 29.677 inHg<br/>
+        Wind: 5 mph from 225&#176;;
         Rain: 0.00 in<br/>
         Rain Rate: 0.00 in/h<br/>
       </p>
@@ -45,20 +45,20 @@
     </item>
 
     <item>
-      <title>Daily summary as of 06/21/2024 04:29:00 PM</title>
+      <title>Daily summary as of 06/21/2024 04:39:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 49.5&#176;F at 03:51:37 AM;
         Max Outside Temperature: 96.9&#176;F at 04:03:16 PM;
         Min Inside Temperature: 76.1&#176;F at 08:43:59 AM;
         Max Inside Temperature: 79.6&#176;F at 12:00:03 AM;
-        Min Barometer: 29.681 inHg at 04:26:00 PM;
+        Min Barometer: 29.677 inHg at 04:37:00 PM;
         Max Barometer: 29.829 inHg at 07:34:59 AM;
         Max Wind: 13 mph from 355&#176; at 03:38:03 AM;
         Rain: 0.00 in;
         Max Rain Rate: 0.00 in/h;
       </description>
-      <pubDate>Fri, 21 Jun 2024 16:29:00 PDT</pubDate>
+      <pubDate>Fri, 21 Jun 2024 16:39:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
@@ -68,7 +68,7 @@
         Max Outside Temperature: 96.9&#176;F at 04:03:16 PM<br/>
         Min Inside Temperature: 76.1&#176;F at 08:43:59 AM<br/>
         Max Inside Temperature: 79.6&#176;F at 12:00:03 AM<br/>
-        Min Barometer: 29.681 inHg at 04:26:00 PM<br/>
+        Min Barometer: 29.677 inHg at 04:37:00 PM<br/>
         Max Barometer: 29.829 inHg at 07:34:59 AM<br/>
         Max Wind: 13 mph from 355&#176; at 03:38:03 AM<br/>
         Rain: 0.00 in<br/>
@@ -77,20 +77,20 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 06/21/2024 04:29:00 PM</title>
+      <title>Monthly summary as of 06/21/2024 04:39:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 46.0&#176;F at 06/20/2024 05:54:49 AM;
         Max Outside Temperature: 103.6&#176;F at 06/05/2024 03:42:38 PM;
         Min Inside Temperature: 73.9&#176;F at 06/10/2024 08:18:59 AM;
         Max Inside Temperature: 85.9&#176;F at 06/05/2024 07:55:00 PM;
-        Min Barometer: 29.681 inHg at 06/21/2024 04:26:00 PM;
+        Min Barometer: 29.677 inHg at 06/21/2024 04:37:00 PM;
         Max Barometer: 30.035 inHg at 06/14/2024 08:46:00 AM;
         Max Wind: 35 mph from 171&#176; at 06/08/2024 04:24:08 PM;
         Rain: 0.00 in;
         Max Rain Rate: 655.35 in/h;
       </description>
-      <pubDate>Fri, 21 Jun 2024 16:29:00 PDT</pubDate>
+      <pubDate>Fri, 21 Jun 2024 16:39:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
@@ -100,7 +100,7 @@
         Max Outside Temperature: 103.6&#176;F at 06/05/2024 03:42:38 PM<br/>
         Min Inside Temperature: 73.9&#176;F at 06/10/2024 08:18:59 AM<br/>
         Max Inside Temperature: 85.9&#176;F at 06/05/2024 07:55:00 PM<br/>
-        Min Barometer: 29.681 inHg at 06/21/2024 04:26:00 PM<br/>
+        Min Barometer: 29.677 inHg at 06/21/2024 04:37:00 PM<br/>
         Max Barometer: 30.035 inHg at 06/14/2024 08:46:00 AM<br/>
         Max Wind: 35 mph from 171&#176; at 06/08/2024 04:24:08 PM<br/>
         Rain: 0.00 in<br/>
@@ -109,7 +109,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 06/21/2024 04:29:00 PM</title>
+      <title>Yearly summary as of 06/21/2024 04:39:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 27.1&#176;F at 01/12/2024 07:07:16 AM;
@@ -122,7 +122,7 @@
         Rain: 13.30 in;
         Max Rain Rate: 655.35 in/h;
       </description>
-      <pubDate>Fri, 21 Jun 2024 16:29:00 PDT</pubDate>
+      <pubDate>Fri, 21 Jun 2024 16:39:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
