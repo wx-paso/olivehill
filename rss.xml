@@ -10,34 +10,34 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"unknown"</language>
-    <pubDate>Sun, 23 Jun 2024 13:29:00 PDT</pubDate>
+    <pubDate>Sun, 23 Jun 2024 13:39:00 PDT</pubDate>
 
-    <lastBuildDate>Sun, 23 Jun 2024 13:29:00 PDT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 13:39:00 PDT</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 4.8.0</generator>
     <ttl>1.0 minute</ttl>
 
     <item>
-      <title>Weather Conditions at 06/23/2024 01:29:00 PM</title>
+      <title>Weather Conditions at 06/23/2024 01:39:00 PM</title>
       <link></link>
       <description>
-        Outside Temperature: 92.6&#176;F;
-        Inside Temperature: 81.2&#176;F;
-        Barometer: 29.840 inHg;
-        Wind: 10 mph from 180&#176;;
+        Outside Temperature: 91.8&#176;F;
+        Inside Temperature: 81.3&#176;F;
+        Barometer: 29.841 inHg;
+        Wind: 10 mph from 202&#176;;
         Rain: 0.00 in;
         Rain Rate: 0.00 in/h;
       </description>
-      <pubDate>Sun, 23 Jun 2024 13:29:00 PDT</pubDate>
+      <pubDate>Sun, 23 Jun 2024 13:39:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
       <p>
-      dateTime: 06/23/2024 01:29:00 PM<br/>
-        Outside Temperature: 92.6&#176;F<br/>
-        Inside Temperature: 81.2&#176;F<br/>
-        Barometer: 29.840 inHg<br/>
-        Wind: 10 mph from 180&#176;;
+      dateTime: 06/23/2024 01:39:00 PM<br/>
+        Outside Temperature: 91.8&#176;F<br/>
+        Inside Temperature: 81.3&#176;F<br/>
+        Barometer: 29.841 inHg<br/>
+        Wind: 10 mph from 202&#176;;
         Rain: 0.00 in<br/>
         Rain Rate: 0.00 in/h<br/>
       </p>
@@ -45,7 +45,7 @@
     </item>
 
     <item>
-      <title>Daily summary as of 06/23/2024 01:29:00 PM</title>
+      <title>Daily summary as of 06/23/2024 01:39:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 54.2&#176;F at 06:06:29 AM;
@@ -54,11 +54,11 @@
         Max Inside Temperature: 82.2&#176;F at 12:00:02 AM;
         Min Barometer: 29.838 inHg at 01:23:00 PM;
         Max Barometer: 29.885 inHg at 08:20:59 AM;
-        Max Wind: 21 mph from 200&#176; at 01:27:36 PM;
+        Max Wind: 22 mph from 202&#176; at 01:30:00 PM;
         Rain: 0.00 in;
         Max Rain Rate: 0.00 in/h;
       </description>
-      <pubDate>Sun, 23 Jun 2024 13:29:00 PDT</pubDate>
+      <pubDate>Sun, 23 Jun 2024 13:39:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
@@ -70,14 +70,14 @@
         Max Inside Temperature: 82.2&#176;F at 12:00:02 AM<br/>
         Min Barometer: 29.838 inHg at 01:23:00 PM<br/>
         Max Barometer: 29.885 inHg at 08:20:59 AM<br/>
-        Max Wind: 21 mph from 200&#176; at 01:27:36 PM<br/>
+        Max Wind: 22 mph from 202&#176; at 01:30:00 PM<br/>
         Rain: 0.00 in<br/>
         Max Rain Rate: 0.00 in/h<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 06/23/2024 01:29:00 PM</title>
+      <title>Monthly summary as of 06/23/2024 01:39:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 46.0&#176;F at 06/20/2024 05:54:49 AM;
@@ -90,7 +90,7 @@
         Rain: 0.00 in;
         Max Rain Rate: 655.35 in/h;
       </description>
-      <pubDate>Sun, 23 Jun 2024 13:29:00 PDT</pubDate>
+      <pubDate>Sun, 23 Jun 2024 13:39:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
@@ -109,7 +109,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 06/23/2024 01:29:00 PM</title>
+      <title>Yearly summary as of 06/23/2024 01:39:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 27.1&#176;F at 01/12/2024 07:07:16 AM;
@@ -122,7 +122,7 @@
         Rain: 13.30 in;
         Max Rain Rate: 655.35 in/h;
       </description>
-      <pubDate>Sun, 23 Jun 2024 13:29:00 PDT</pubDate>
+      <pubDate>Sun, 23 Jun 2024 13:39:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
