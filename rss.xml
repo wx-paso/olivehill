@@ -10,34 +10,34 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"unknown"</language>
-    <pubDate>Wed, 26 Jun 2024 16:09:00 PDT</pubDate>
+    <pubDate>Wed, 26 Jun 2024 16:19:00 PDT</pubDate>
 
-    <lastBuildDate>Wed, 26 Jun 2024 16:09:00 PDT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 16:19:00 PDT</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 4.8.0</generator>
     <ttl>1.0 minute</ttl>
 
     <item>
-      <title>Weather Conditions at 06/26/2024 04:09:00 PM</title>
+      <title>Weather Conditions at 06/26/2024 04:19:00 PM</title>
       <link></link>
       <description>
-        Outside Temperature: 90.0&#176;F;
-        Inside Temperature: 83.9&#176;F;
-        Barometer: 29.851 inHg;
-        Wind: 12 mph from 202&#176;;
+        Outside Temperature: 89.9&#176;F;
+        Inside Temperature: 84.0&#176;F;
+        Barometer: 29.848 inHg;
+        Wind: 8 mph from 180&#176;;
         Rain: 0.00 in;
         Rain Rate: 0.00 in/h;
       </description>
-      <pubDate>Wed, 26 Jun 2024 16:09:00 PDT</pubDate>
+      <pubDate>Wed, 26 Jun 2024 16:19:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
       <p>
-      dateTime: 06/26/2024 04:09:00 PM<br/>
-        Outside Temperature: 90.0&#176;F<br/>
-        Inside Temperature: 83.9&#176;F<br/>
-        Barometer: 29.851 inHg<br/>
-        Wind: 12 mph from 202&#176;;
+      dateTime: 06/26/2024 04:19:00 PM<br/>
+        Outside Temperature: 89.9&#176;F<br/>
+        Inside Temperature: 84.0&#176;F<br/>
+        Barometer: 29.848 inHg<br/>
+        Wind: 8 mph from 180&#176;;
         Rain: 0.00 in<br/>
         Rain Rate: 0.00 in/h<br/>
       </p>
@@ -45,20 +45,20 @@
     </item>
 
     <item>
-      <title>Daily summary as of 06/26/2024 04:09:00 PM</title>
+      <title>Daily summary as of 06/26/2024 04:19:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 58.5&#176;F at 06:02:15 AM;
         Max Outside Temperature: 94.3&#176;F at 02:03:07 PM;
         Min Inside Temperature: 81.0&#176;F at 08:06:59 AM;
-        Max Inside Temperature: 84.0&#176;F at 04:05:00 PM;
-        Min Barometer: 29.849 inHg at 04:04:00 PM;
+        Max Inside Temperature: 84.1&#176;F at 04:16:00 PM;
+        Min Barometer: 29.845 inHg at 04:19:00 PM;
         Max Barometer: 29.968 inHg at 08:12:59 AM;
         Max Wind: 21 mph from 180&#176; at 03:18:00 PM;
         Rain: 0.00 in;
         Max Rain Rate: 0.00 in/h;
       </description>
-      <pubDate>Wed, 26 Jun 2024 16:09:00 PDT</pubDate>
+      <pubDate>Wed, 26 Jun 2024 16:19:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
@@ -67,8 +67,8 @@
         Min Outside Temperature: 58.5&#176;F at 06:02:15 AM<br/>
         Max Outside Temperature: 94.3&#176;F at 02:03:07 PM<br/>
         Min Inside Temperature: 81.0&#176;F at 08:06:59 AM<br/>
-        Max Inside Temperature: 84.0&#176;F at 04:05:00 PM<br/>
-        Min Barometer: 29.849 inHg at 04:04:00 PM<br/>
+        Max Inside Temperature: 84.1&#176;F at 04:16:00 PM<br/>
+        Min Barometer: 29.845 inHg at 04:19:00 PM<br/>
         Max Barometer: 29.968 inHg at 08:12:59 AM<br/>
         Max Wind: 21 mph from 180&#176; at 03:18:00 PM<br/>
         Rain: 0.00 in<br/>
@@ -77,7 +77,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 06/26/2024 04:09:00 PM</title>
+      <title>Monthly summary as of 06/26/2024 04:19:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 46.0&#176;F at 06/20/2024 05:54:49 AM;
@@ -90,7 +90,7 @@
         Rain: 0.00 in;
         Max Rain Rate: 655.35 in/h;
       </description>
-      <pubDate>Wed, 26 Jun 2024 16:09:00 PDT</pubDate>
+      <pubDate>Wed, 26 Jun 2024 16:19:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
@@ -109,7 +109,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 06/26/2024 04:09:00 PM</title>
+      <title>Yearly summary as of 06/26/2024 04:19:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 27.1&#176;F at 01/12/2024 07:07:16 AM;
@@ -122,7 +122,7 @@
         Rain: 13.30 in;
         Max Rain Rate: 655.35 in/h;
       </description>
-      <pubDate>Wed, 26 Jun 2024 16:09:00 PDT</pubDate>
+      <pubDate>Wed, 26 Jun 2024 16:19:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
