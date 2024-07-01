@@ -10,34 +10,34 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"unknown"</language>
-    <pubDate>Mon, 01 Jul 2024 08:09:00 PDT</pubDate>
+    <pubDate>Mon, 01 Jul 2024 08:19:00 PDT</pubDate>
 
-    <lastBuildDate>Mon, 01 Jul 2024 08:09:00 PDT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 08:19:00 PDT</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 4.8.0</generator>
     <ttl>1.0 minute</ttl>
 
     <item>
-      <title>Weather Conditions at 07/01/2024 08:09:00 AM</title>
+      <title>Weather Conditions at 07/01/2024 08:19:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 61.8&#176;F;
+        Outside Temperature: 62.5&#176;F;
         Inside Temperature: 79.7&#176;F;
-        Barometer: 29.909 inHg;
-        Wind: 3 mph from 22&#176;;
+        Barometer: 29.911 inHg;
+        Wind: 0 mph from    N/A;
         Rain: 0.00 in;
         Rain Rate: 0.00 in/h;
       </description>
-      <pubDate>Mon, 01 Jul 2024 08:09:00 PDT</pubDate>
+      <pubDate>Mon, 01 Jul 2024 08:19:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
       <p>
-      dateTime: 07/01/2024 08:09:00 AM<br/>
-        Outside Temperature: 61.8&#176;F<br/>
+      dateTime: 07/01/2024 08:19:00 AM<br/>
+        Outside Temperature: 62.5&#176;F<br/>
         Inside Temperature: 79.7&#176;F<br/>
-        Barometer: 29.909 inHg<br/>
-        Wind: 3 mph from 22&#176;;
+        Barometer: 29.911 inHg<br/>
+        Wind: 0 mph from    N/A;
         Rain: 0.00 in<br/>
         Rain Rate: 0.00 in/h<br/>
       </p>
@@ -45,12 +45,12 @@
     </item>
 
     <item>
-      <title>Daily summary as of 07/01/2024 08:09:00 AM</title>
+      <title>Daily summary as of 07/01/2024 08:19:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 54.6&#176;F at 06:01:50 AM;
         Max Outside Temperature: 64.4&#176;F at 12:00:02 AM;
-        Min Inside Temperature: 79.7&#176;F at 07:58:58 AM;
+        Min Inside Temperature: 79.6&#176;F at 08:15:58 AM;
         Max Inside Temperature: 83.2&#176;F at 12:00:02 AM;
         Min Barometer: 29.876 inHg at 02:41:58 AM;
         Max Barometer: 29.916 inHg at 07:33:58 AM;
@@ -58,7 +58,7 @@
         Rain: 0.00 in;
         Max Rain Rate: 0.00 in/h;
       </description>
-      <pubDate>Mon, 01 Jul 2024 08:09:00 PDT</pubDate>
+      <pubDate>Mon, 01 Jul 2024 08:19:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
@@ -66,7 +66,7 @@
       Daily summary as of 01 Jul 2024<br/>
         Min Outside Temperature: 54.6&#176;F at 06:01:50 AM<br/>
         Max Outside Temperature: 64.4&#176;F at 12:00:02 AM<br/>
-        Min Inside Temperature: 79.7&#176;F at 07:58:58 AM<br/>
+        Min Inside Temperature: 79.6&#176;F at 08:15:58 AM<br/>
         Max Inside Temperature: 83.2&#176;F at 12:00:02 AM<br/>
         Min Barometer: 29.876 inHg at 02:41:58 AM<br/>
         Max Barometer: 29.916 inHg at 07:33:58 AM<br/>
@@ -77,12 +77,12 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 07/01/2024 08:09:00 AM</title>
+      <title>Monthly summary as of 07/01/2024 08:19:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 54.6&#176;F at 07/01/2024 06:01:50 AM;
         Max Outside Temperature: 64.4&#176;F at 07/01/2024 12:00:02 AM;
-        Min Inside Temperature: 79.7&#176;F at 07/01/2024 07:58:58 AM;
+        Min Inside Temperature: 79.6&#176;F at 07/01/2024 08:15:58 AM;
         Max Inside Temperature: 83.2&#176;F at 07/01/2024 12:00:02 AM;
         Min Barometer: 29.876 inHg at 07/01/2024 02:41:58 AM;
         Max Barometer: 29.916 inHg at 07/01/2024 07:33:58 AM;
@@ -90,7 +90,7 @@
         Rain: 0.00 in;
         Max Rain Rate: 0.00 in/h;
       </description>
-      <pubDate>Mon, 01 Jul 2024 08:09:00 PDT</pubDate>
+      <pubDate>Mon, 01 Jul 2024 08:19:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
@@ -98,7 +98,7 @@
       Monthly summary as of 01 Jul 2024<br/>
         Min Outside Temperature: 54.6&#176;F at 07/01/2024 06:01:50 AM<br/>
         Max Outside Temperature: 64.4&#176;F at 07/01/2024 12:00:02 AM<br/>
-        Min Inside Temperature: 79.7&#176;F at 07/01/2024 07:58:58 AM<br/>
+        Min Inside Temperature: 79.6&#176;F at 07/01/2024 08:15:58 AM<br/>
         Max Inside Temperature: 83.2&#176;F at 07/01/2024 12:00:02 AM<br/>
         Min Barometer: 29.876 inHg at 07/01/2024 02:41:58 AM<br/>
         Max Barometer: 29.916 inHg at 07/01/2024 07:33:58 AM<br/>
@@ -109,7 +109,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 07/01/2024 08:09:00 AM</title>
+      <title>Yearly summary as of 07/01/2024 08:19:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 27.1&#176;F at 01/12/2024 07:07:16 AM;
@@ -122,7 +122,7 @@
         Rain: 13.30 in;
         Max Rain Rate: 655.35 in/h;
       </description>
-      <pubDate>Mon, 01 Jul 2024 08:09:00 PDT</pubDate>
+      <pubDate>Mon, 01 Jul 2024 08:19:00 PDT</pubDate>
       <geo:lat>35.6</geo:lat>
       <geo:long>-120.7</geo:long>
       <content:encoded><![CDATA[
